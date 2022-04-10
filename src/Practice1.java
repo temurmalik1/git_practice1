@@ -3,15 +3,8 @@ public class Practice1 {
 
         // commit1
 
+        // commit2
 
-        //commit
-
-
-        //commit
-
-
-        //commit2
-
-        //commit3
+        // commit3
     }
 }
