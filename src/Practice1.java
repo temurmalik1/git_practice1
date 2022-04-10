@@ -1,10 +1,10 @@
 public class Practice1 {
     public static void main(String[] args) {
 
-        // commit1
+        // new commit1
 
-        // commit2
+        // new commit2
 
-        // commit3
+        // new commit3
     }
 }
